@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","Conn_01x02","JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal",181.610000,-95.250000,180.000000,bottom
+"J5","JTAG","PinHeader_2x05_P1.27mm_Vertical_SMD",190.500000,-96.012000,90.000000,bottom
+"J6","UART","PinHeader_2x03_P1.27mm_Vertical_SMD",204.470000,-82.550000,270.000000,bottom

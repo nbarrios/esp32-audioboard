@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name audioboard-rescue)(type Legacy)(uri ${KIPRJMOD}/audioboard-rescue.lib)(options "")(descr ""))
+)
